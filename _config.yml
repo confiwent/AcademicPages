@@ -1,0 +1,29 @@
+title: 
+url: "https://main.nuowen.pro"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: Nuowen Kan, 阚诺文
+keywords: Nuowen Kan
+
+footer: yes
+footer_url: "https://main.nuowen.pro"
+# footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Home"
+   link: "/"
+ - name: "Publication"
+   link: "publication"
+ - name: "Resume"
+   link: "CV_Nuowen_Kan.pdf"
+ - name: "Blog"
+   link: "http://blog.nuowen.pro"
+
+theme: jekyll-theme-cayman
