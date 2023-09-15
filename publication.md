@@ -7,7 +7,7 @@
   In the 30th ACM International Conference on Multimedia, 2022.
 
   <!-- __<font color=#DB652E>Top Papers Award (Top 6/609)</font>__ -->
-  __<span style="color:#DB652E">Top Papers Award (Top 6/609)</span>__
+  __<span style="color:#DB652E">Oral Presentation, Top Papers Award (Top 6/609)</span>__
 
   [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3503161.3548331) [\[Code\]](https://github.com/confiwent/merina) [\[Framework\]](pic/MM_22.png) 
 
@@ -18,6 +18,8 @@
   <u>Nuowen Kan</u>, Chenglin Li, Caiyi Yang, Wenrui Dai, Junni Zou, Hongkai Xiong
 
   In the 31st ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, 2021.
+
+  <span style="color:#DB652E">Oral Presentation</span>
 
   [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3458306.3458872)[\[Code\]](https://github.com/confiwent/BayesMPC) [\[Framework\]](pic/nossdav'21.png)
 
@@ -48,6 +50,8 @@
     <u>Nuowen Kan</u>, Chengming Liu, Junni Zou, Chenglin Li, Hongkai Xiong
 
     In 2019 IEEE International Conference on Image Processing.
+
+    <span style="color:#DB652E">Oral Presentation</span>
 
     [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8803007) [\[Framework\]](pic/icip_19.png) [\[Slice\]](https://drive.google.com/file/d/1y6tLxdk-TxEl9gnDd-EnFSwyXgHnoUKQ/view?usp=sharing)
 
