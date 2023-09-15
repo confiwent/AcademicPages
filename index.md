@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="nwkan_p2.jpg" width = "648" height = "864">
 
-Fourth-year __Ph.D. candidate__
+__Ph.D. candidate__
 
 in Department of Computer Science and Engineering
 
