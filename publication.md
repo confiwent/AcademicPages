@@ -6,7 +6,7 @@
 
   In the 30th ACM International Conference on Multimedia, 2022.
 
-  <font color=orange>__Top Papers Award (Top 6/609)__</font>
+  __<font color=orange>Top Papers Award (Top 6/609)</font>__
 
   [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3503161.3548331) [\[Code\]](https://github.com/confiwent/merina) [\[Framework\]](pic/MM_22.png) 
 
