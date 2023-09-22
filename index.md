@@ -4,7 +4,7 @@ layout: default
 
 # Nuowen Kan (阚诺文)
 
-<img class="profile-picture" src="nwkan_p2.jpg" width = "389" height = "518">
+<img class="profile-picture" src="nwkan_p2.jpg" width = "311" height = "414">
 
 __Ph.D. candidate__
 
@@ -18,7 +18,7 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 
 ## Research Interest
 
-- The application of deep learning in multimedia and network flow optimization
+- AI for multimedia and network flow optimization
 - Deep reinforcement learning and Graph neural network
 - Task oriented image/video processing and communication
 
@@ -28,6 +28,17 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 
 - [Oct. 2022] Our paper titled "Improving Generalization for Neural Adaptive Video Streaming via Meta Reinforcement Learning" was honored with the **Top Paper Award** by ACM Multimedia 2022!
 
+## Honors and Awards
+
+- **Science and Technology Advancement Award-First Prize, Shanghai**, 2022.
+- **Huawei Scholarship**, 2022.
+- **SMICS MengNing Scholarship**, 2019.
+- **FPGA Application System Design Invitational Competition-First Prize, Jiangsu**, 2015.
+
+## Services
+*Reviewer* for 
+- Journals: **IEEE JSAC, IEEE TMM, IEEE TCSVT, IEEE TMC**
+- Conferences: **ACM Multimedia 2022, 2023, ICC 2023, IEEE WCNC 2023**.
 
 ## Contact
 
