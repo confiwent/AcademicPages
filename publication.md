@@ -1,5 +1,11 @@
 # Publications
 
+- **[NeurIPS] Doubly Robust Augmented Transfer for Meta-Reinforcement Learning**
+
+  Yuankun Jiang, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
+
+  Accepted by Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+
 - **[ACM Multimedia] Improving Generalization for Neural Adaptive Video Streaming via Meta Reinforcement Learning**
   
   <u>Nuowen Kan</u>, Yuankun Jiang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong

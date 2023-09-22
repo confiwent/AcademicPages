@@ -4,7 +4,7 @@ layout: default
 
 # Nuowen Kan (阚诺文)
 
-<img class="profile-picture" src="nwkan_p2.jpg" width = "648" height = "864">
+<img class="profile-picture" src="nwkan_p2.jpg" width = "389" height = "518">
 
 __Ph.D. candidate__
 
@@ -21,6 +21,12 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 - The application of deep learning in multimedia and network flow optimization
 - Deep reinforcement learning and Graph neural network
 - Task oriented image/video processing and communication
+
+## News
+
+- [Sep. 2023] Our paper titled "Doubly Robust Augmented Transfer for Meta-Reinforcement Learning" was accepted by NeurIPS 2023!
+
+- [Oct. 2022] Our paper titled "Improving Generalization for Neural Adaptive Video Streaming via Meta Reinforcement Learning" was honored with the **Top Paper Award** by ACM Multimedia 2022!
 
 
 ## Contact
