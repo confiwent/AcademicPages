@@ -24,6 +24,8 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 
 ## News
 
+- [Oct. 2023] Our paper titled "Successor Feature-Based Transfer Reinforcement Learning for Video Rate Adaptation with Heterogeneous QoE Preferences" was accepted by IEEE Transactions on Multimedia (TMM), 2023!
+
 - [Sep. 2023] Our paper titled "Doubly Robust Augmented Transfer for Meta-Reinforcement Learning" was accepted by NeurIPS 2023!
 
 - [Oct. 2022] Our paper titled "Improving Generalization for Neural Adaptive Video Streaming via Meta Reinforcement Learning" was honored with the **Top Paper Award** by ACM Multimedia 2022!

@@ -1,5 +1,11 @@
 # Publications
 
+- **[IEEE TMM] Successor Feature-Based Transfer Reinforcement Learning for Video Rate Adaptation with Heterogeneous QoE Preferences**
+
+    Kexin Tang, <u>Nuowen Kan</u>, Yuankun, Jiang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
+
+    Accepted by IEEE Transactions on Multimedia, 2023.
+
 - **[NeurIPS] Doubly Robust Augmented Transfer for Meta-Reinforcement Learning**
 
   Yuankun Jiang, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
