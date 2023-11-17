@@ -41,7 +41,7 @@
 
     <u>Nuowen Kan</u>, Junni Zou, Chenglin Li, Wenrui Dai, Hongkai Xiong
 
-    In IEEE Transactions on Circuits and Systems for Video Technology, Vol. 32(3), March 2022.
+    In IEEE Transactions on Circuits and Systems for Video Technology, Vol. 31(3), March 2022.
 
     [\[Paper\]](https://ieeexplore.ieee.org/document/9419061?reason=concurrency)[\[Framework\]](pic/tcsvt_21.png)
 
