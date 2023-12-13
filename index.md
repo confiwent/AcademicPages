@@ -72,5 +72,5 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 
 ## LAB 
 
-[Institute of Media, Information and Network](http://min.sjtu.edu.cn/index.htm)
+[Institute of Media, Information and Network](https://min.sjtu.edu.cn)
 
