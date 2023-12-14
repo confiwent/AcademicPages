@@ -4,7 +4,7 @@ layout: default
 
 # Nuowen Kan (阚诺文)
 
-<img class="profile-picture" src="2023-1inch-3-c.jpg" width = "296" height = "414">
+<img class="profile-picture" src="nwkan_p2.jpg" width = "311" height = "414">
 
 __Ph.D. candidate__
 
