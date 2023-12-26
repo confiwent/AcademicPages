@@ -41,7 +41,7 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 ## Services
 *Reviewer* for 
 - Journals: **IEEE JSAC, IEEE TMM, IEEE TCSVT, IEEE TMC**
-- Conferences: **ACM Multimedia 2022, 2023, ICC 2023, IEEE WCNC 2023**.
+- Conferences: **ACM Multimedia 2022, 2023, IEEE ICC 2023, 2024, IEEE WCNC 2023**.
 
 ## Contact
 
