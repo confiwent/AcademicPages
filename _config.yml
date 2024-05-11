@@ -23,7 +23,7 @@ nav:
    link: "publication"
  - name: "Resume"
    link: "CV_Nuowen_Kan.pdf"
- - name: "Blog"
-   link: "http://blog.nuowen.pro"
+#  - name: "Blog"
+#    link: "http://blog.nuowen.pro"
 
 theme: jekyll-theme-cayman

@@ -4,9 +4,9 @@ layout: default
 
 # Nuowen Kan (阚诺文)
 
-<img class="profile-picture" src="nwkan_p2.jpg" width = "311" height = "414">
+<img class="profile-picture" src="nwkan_p3.jpg" width = "311" height = "414">
 
-__Ph.D. candidate__
+__Ph.D__
 
 in Department of Computer Science and Engineering
 
@@ -14,7 +14,7 @@ in Department of Computer Science and Engineering
 
 I'm also a member of [Media, Information and Network](http://min.sjtu.edu.cn/) group.
 
-__Previouly:__ I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, and the M.S. degree in Electronics and Communications Engineering from SJTU, China, in 2020.  
+__Previouly:__ I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, the M.S. degree in Electronics and Communications Engineering from SJTU, in 2020, and the Ph.D. degree in Computer Science from SJTU, in 2024.  
 
 ## Research Interest
 
