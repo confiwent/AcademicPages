@@ -8,7 +8,7 @@ layout: default
 
 Ph.D
 
-[Media, Information, and Network](http://min.sjtu.edu.cn/) group, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/). 
+[Media, Information, and Network](http://min.sjtu.edu.cn/) group, Shanghai Jiao Tong University (SJTU). 
 
 __Previouly:__ I received the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, in 2017, the M.S. degree in Electronics and Communications Engineering from SJTU, in 2020, and the Ph.D. degree in Computer Science from SJTU, in 2024.  
 
