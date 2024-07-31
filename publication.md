@@ -5,7 +5,7 @@
 
     Accepted by the 32nd ACM International Conference on Multimedia, 2024.
 
-    [\[Paper\]](https://openreview.net/forum?id=wOx1VBzF8k) [Framework\]](pic/mm24.png) 
+    [\[Paper\]](https://openreview.net/forum?id=wOx1VBzF8k) [\[Framework\]](pic/mm24.png) 
 
 - **[IEEE TMM] Successor Feature-Based Transfer Reinforcement Learning for Video Rate Adaptation with Heterogeneous QoE Preferences**
 
@@ -13,7 +13,7 @@
 
     In IEEE Transactions on Multimedia, Vol. 26, 2023.
 
-    [\[Paper\]](https://ieeexplore.ieee.org/document/10314007) [Framework\]](pic/tmm23.png)
+    [\[Paper\]](https://ieeexplore.ieee.org/document/10314007) [\[Framework\]](pic/tmm23.png)
 
 - **[NeurIPS] Doubly Robust Augmented Transfer for Meta-Reinforcement Learning**
 
@@ -44,7 +44,7 @@
 
   <span style="color:#DB652E">Oral Presentation</span>
 
-  [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3458306.3458872)[\[Code\]](https://github.com/confiwent/BayesMPC) [\[Framework\]](pic/nossdav'21.png)
+  [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3458306.3458872) [\[Code\]](https://github.com/confiwent/BayesMPC) [\[Framework\]](pic/nossdav'21.png)
 
 <!-- <img class="profile-paper-pic" src="pic/tcsvt_21.png" width = "800" height = "250"> -->
 
@@ -54,7 +54,7 @@
 
     In IEEE Transactions on Circuits and Systems for Video Technology, Vol. 31(3), March 2022.
 
-    [\[Paper\]](https://ieeexplore.ieee.org/document/9419061?reason=concurrency)[\[Framework\]](pic/tcsvt_21.png)
+    [\[Paper\]](https://ieeexplore.ieee.org/document/9419061?reason=concurrency) [\[Framework\]](pic/tcsvt_21.png)
 
 <!-- <img class="profile-paper-pic" src="pic/tcsvt_20.png" width = "800" height = "360"> -->
 
