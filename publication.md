@@ -1,16 +1,27 @@
 # Publications
+- **[ACM Multimedia] Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport**
+
+    Sa Yan, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
+
+    Accepted by the 32nd ACM International Conference on Multimedia, 2024.
+
+    [\[Paper\]](https://openreview.net/forum?id=wOx1VBzF8k) [Framework\]](pic/mm24.png) 
 
 - **[IEEE TMM] Successor Feature-Based Transfer Reinforcement Learning for Video Rate Adaptation with Heterogeneous QoE Preferences**
 
-    Kexin Tang, <u>Nuowen Kan</u>, Yuankun, Jiang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
+    Kexin Tang, <u>Nuowen Kan</u>, Yuankun Jiang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
-    Accepted by IEEE Transactions on Multimedia, 2023.
+    In IEEE Transactions on Multimedia, Vol. 26, 2023.
+
+    [\[Paper\]](https://ieeexplore.ieee.org/document/10314007) [Framework\]](pic/tmm23.png)
 
 - **[NeurIPS] Doubly Robust Augmented Transfer for Meta-Reinforcement Learning**
 
   Yuankun Jiang, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
-  Accepted by Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+  In the Thirty-seventh Conference on Neural Information Processing Systems, 2023.
+
+  [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f31bf160569618084ba9bdc2a8de29d0-Abstract-Conference.html) [\[Website\]](https://neurips.cc/virtual/2023/poster/70281)
 
 - **[ACM Multimedia] Improving Generalization for Neural Adaptive Video Streaming via Meta Reinforcement Learning**
   
@@ -61,7 +72,7 @@
 
     <u>Nuowen Kan</u>, Chengming Liu, Junni Zou, Chenglin Li, Hongkai Xiong
 
-    In 2019 IEEE International Conference on Image Processing.
+    In the 2019 IEEE International Conference on Image Processing.
 
     <span style="color:#DB652E">Oral Presentation</span>
 

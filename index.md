@@ -19,6 +19,7 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 - Task oriented image/video processing and communication
 
 ## News
+- [Jul. 2024] Our paper titled "Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport" was accepted by ACM Multimedia, 2024!
 
 - [Oct. 2023] Our paper titled "Successor Feature-Based Transfer Reinforcement Learning for Video Rate Adaptation with Heterogeneous QoE Preferences" was accepted by IEEE Transactions on Multimedia (TMM), 2023!
 
