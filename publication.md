@@ -1,11 +1,19 @@
 # Publications
+- **[NeurIPS] Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach**
+
+  Hao Zhang, Chenglin Li, <u>Nuowen Kan</u>, Ziyang Zheng, Wenrui Dai, Junni Zou, Hongkai Xiong
+
+  In the Thirty-eighth Conference on Neural Information Processing Systems, 2024.
+
+  [\[Paper\]](https://openreview.net/forum?id=6lx34fpanw) 
+
 - **[ACM Multimedia] Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport**
 
     Sa Yan, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
     Accepted by the 32nd ACM International Conference on Multimedia, 2024.
 
-    [\[Paper\]](https://openreview.net/forum?id=wOx1VBzF8k) [\[Framework\]](pic/mm24.png) 
+    [\[Paper\]](https://dl.acm.org/doi/10.1145/3664647.3681523) [\[Framework\]](pic/mm24.png) 
 
 - **[IEEE TMM] Successor Feature-Based Transfer Reinforcement Learning for Video Rate Adaptation with Heterogeneous QoE Preferences**
 
