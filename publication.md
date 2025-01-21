@@ -1,9 +1,15 @@
 # Publications
+- **[IEEE/ACM ToN] GDPlan: Generative Network Planning via Graph Diffusion Model**
+
+  <u>Nuowen Kan</u>, Sa Yan, Junni Zou, Wenrui Dai, Xing Gao, Chenglin Li, Hongkai Xiong
+
+  Accepted by IEEE/ACM Transactions on Networking, 2025.
+
 - **[IEEE TCSVT] Task-Adapted Learnable Embedded Quantization for Scalable Human-Machine Image Compression**
 
-    Shaohui Li, Shuoyu Ma, Wenrui Dai, <u>Nuowen Kan</u>, Fan Cheng, Chenglin Li, Junni Zou, Hongkai Xiong
+  Shaohui Li, Shuoyu Ma, Wenrui Dai, <u>Nuowen Kan</u>, Fan Cheng, Chenglin Li, Junni Zou, Hongkai Xiong
 
-    In IEEE Transactions on Circuits and Systems for Video Technology, Early Acess, 2025.
+  In IEEE Transactions on Circuits and Systems for Video Technology, Early Acess, 2025.
 
 - **[NeurIPS] Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach**
 
@@ -17,7 +23,7 @@
 
     Sa Yan, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
-    Accepted by the 32nd ACM International Conference on Multimedia, 2024.
+    In the 32nd ACM International Conference on Multimedia, 2024.
 
     [\[Paper\]](https://dl.acm.org/doi/10.1145/3664647.3681523) [\[Framework\]](pic/mm24.png) 
 
