@@ -1,4 +1,10 @@
 # Publications
+- **[IEEE TCSVT] Task-Adapted Learnable Embedded Quantization for Scalable Human-Machine Image Compression**
+
+    Shaohui Li, Shuoyu Ma, Wenrui Dai, <u>Nuowen Kan</u>,, Fan Cheng, Chenglin Li, Junni Zou, Hongkai Xiong
+
+    In IEEE Transactions on Circuits and Systems for Video Technology, Early Acess, 2025.
+
 - **[NeurIPS] Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach**
 
   Hao Zhang, Chenglin Li, <u>Nuowen Kan</u>, Ziyang Zheng, Wenrui Dai, Junni Zou, Hongkai Xiong

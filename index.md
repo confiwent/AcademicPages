@@ -21,6 +21,8 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 ## News
 - [Jan. 2025] Our paper titled "GDPlan: Generative Network Planning via Graph Diffusion Model" was accepted by IEEE/ACM Transactions on Networking (ToN), 2025!
 
+- [Jan. 2025] Our paper titled "Task-Adapted Learnable Embedded Quantization for Scalable Human-Machine Image Compression" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
+
 - [Sep. 2024] Our paper titled "Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach" was accepted by NeurIPS, 2024!
 
 - [Jul. 2024] Our paper titled "Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport" was accepted by ACM Multimedia, 2024!
