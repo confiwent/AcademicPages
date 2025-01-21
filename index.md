@@ -36,6 +36,7 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 ## Honors and Awards
 
 <!-- - **Science and Technology Advancement Award-First Prize, Shanghai**, 2022. -->
+- **上海市超级博士后计划**, 2024
 - **Outstanding Ph.D. Graduate of Shanghai**, 2024
 - **Huawei Scholarship**, 2022.
 - **SMICS MengNing Scholarship**, 2019.
