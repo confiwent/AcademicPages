@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Nuowen Kan
+# Nuowen Kan (阚诺文)
 
 <img class="profile-picture" src="nwkan_p3.jpg" width = "311" height = "414">
 
