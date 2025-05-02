@@ -19,6 +19,14 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 - Task oriented image/video processing and communication
 
 ## News
+- [May. 2025] Our paper titled "Noise Conditional Variational Score Distillation" was accepted by International Conference on Machine Learning (ICML), 2025!
+
+- [Apr. 2025] Our paper titled "A Generalizable and Expressive Meta-Diffusion Policy for RTC Bandwidth Prediction" was accepted by IEEE International Conference on Multimedia&Expo (ICME), 2025!
+
+- [Mar. 2025] Our paper titled "Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning" was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025!
+
+- [Feb. 2025] Our paper titled "On Disentangled Training for Nonlinear Transform in Learned Image Compression" was accepted by International Conference on Learning Representations (ICLR), 2025!
+
 - [Jan. 2025] Our paper titled "GDPlan: Generative Network Planning via Graph Diffusion Model" was accepted by IEEE/ACM Transactions on Networking (ToN), 2025!
 
 - [Jan. 2025] Our paper titled "Task-Adapted Learnable Embedded Quantization for Scalable Human-Machine Image Compression" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!

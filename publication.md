@@ -1,4 +1,22 @@
 # Publications
+- **[CVPR'25] Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning**
+
+  Shouhang Zhu, Chenglin Li, Yuankun Jiang, Li Wei, <u>Nuowen Kan</u>, Ziyang Zheng, Wenrui Dai, Junni Zou, Hongkai Xiong
+ 
+  In the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.
+
+- **[ICLR'25] On Disentangled Training for Nonlinear Transform in Learned Image Compression**
+
+  Han Li, Shaohui Li, Wenrui Dai, Maida Cao, <u>Nuowen Kan</u>, Chenglin Li, Junni Zou, Hongkai Xiong
+
+  In the 13th International Conference on Learning Representations, 2025.
+
+- **[IEEE TCSVT] Learnable Non-uniform Quantization With Sampling-based Optimization for Variable-Rate Learned Image Compression**
+
+  Shaohui Li, Wenrui Dai, <u>Nuowen Kan</u>, Chenglin Li, Junni Zou, Hongkai Xiong
+
+  In IEEE Transactions on Circuits and Systems for Video Technology, Early Acess, 2025.
+
 - **[IEEE/ACM ToN] GDPlan: Generative Network Planning via Graph Diffusion Model**
 
   <u>Nuowen Kan</u>, Sa Yan, Junni Zou, Wenrui Dai, Xing Gao, Chenglin Li, Hongkai Xiong
@@ -11,7 +29,7 @@
 
   In IEEE Transactions on Circuits and Systems for Video Technology, Early Acess, 2025.
 
-- **[NeurIPS] Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach**
+- **[NeurIPS'24] Improving Generalization in Federated Learning with Model-Data Mutual Information Regularization: A Posterior Inference Approach**
 
   Hao Zhang, Chenglin Li, <u>Nuowen Kan</u>, Ziyang Zheng, Wenrui Dai, Junni Zou, Hongkai Xiong
 
@@ -19,7 +37,7 @@
 
   [\[Paper\]](https://openreview.net/forum?id=6lx34fpanw) 
 
-- **[ACM Multimedia] Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport**
+- **[ACM Multimedia'24] Task-Oriented Multi-Bitstream Optimization for Image Compression and Transmission via Optimal Transport**
 
     Sa Yan, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
@@ -35,7 +53,7 @@
 
     [\[Paper\]](https://ieeexplore.ieee.org/document/10314007) [\[Framework\]](pic/tmm23.png)
 
-- **[NeurIPS] Doubly Robust Augmented Transfer for Meta-Reinforcement Learning**
+- **[NeurIPS'23] Doubly Robust Augmented Transfer for Meta-Reinforcement Learning**
 
   Yuankun Jiang, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
@@ -43,7 +61,7 @@
 
   [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f31bf160569618084ba9bdc2a8de29d0-Abstract-Conference.html) [\[Website\]](https://neurips.cc/virtual/2023/poster/70281)
 
-- **[ACM Multimedia] Improving Generalization for Neural Adaptive Video Streaming via Meta Reinforcement Learning**
+- **[ACM Multimedia'22] Improving Generalization for Neural Adaptive Video Streaming via Meta Reinforcement Learning**
   
   <u>Nuowen Kan</u>, Yuankun Jiang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
@@ -56,7 +74,7 @@
 
 <!-- <img class="profile-paper-pic" src="pic/nossdav'21.png" width = "800" height = "320"> -->
 
-- **[ACM NOSSDAV] Uncertainty-Aware Robust Adaptive Video Streaming with Bayesian Neural Network and Model Predictive Control**
+- **[ACM NOSSDAV'21] Uncertainty-Aware Robust Adaptive Video Streaming with Bayesian Neural Network and Model Predictive Control**
   
   <u>Nuowen Kan</u>, Chenglin Li, Caiyi Yang, Wenrui Dai, Junni Zou, Hongkai Xiong
 
@@ -88,7 +106,7 @@
 
 <!-- <img class="profile-paper-pic" src="pic/icip_19.png" width = "600" height = "360"> -->
 
-- **[IEEE ICIP] A Server-side Optimized Hybrid Multicast-Unicast Strategy for Multi-User Adaptive 360-Degree Video Streaming**
+- **[IEEE ICIP'19] A Server-side Optimized Hybrid Multicast-Unicast Strategy for Multi-User Adaptive 360-Degree Video Streaming**
 
     <u>Nuowen Kan</u>, Chengming Liu, Junni Zou, Chenglin Li, Hongkai Xiong
 
@@ -100,7 +118,7 @@
 
 <!-- <img class="profile-paper-pic" src="pic/icassp_19.png" width = "800" height = "360"> -->
 
-- **[IEEE ICASSP] Deep Reinforcement Learning-based Rate Adaptation for Adaptive 360-degree Video Streaming**
+- **[IEEE ICASSP'19] Deep Reinforcement Learning-based Rate Adaptation for Adaptive 360-degree Video Streaming**
 
     <u>Nuowen Kan</u>, Junni Zou, Kexin Tang, Chenglin Li, Ning Liu, Hongkai Xiong
 
@@ -110,7 +128,7 @@
 
 <!-- <img class="profile-paper-pic" src="pic/icip_18.png" width = "800" height = "360"> -->
 
-- **[IEEE ICIP] Server-side Rate Adaptation for Multi-User 360-Degree Video Streaming**
+- **[IEEE ICIP'18] Server-side Rate Adaptation for Multi-User 360-Degree Video Streaming**
 
     Chengming Liu, <u>Nuowen Kan</u>, Junni Zou, Qin Yang, Hongkai Xiong
 
