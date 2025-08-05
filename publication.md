@@ -1,15 +1,26 @@
 # Publications
+- **[ICML'25] Noise Conditional Variational Score Distillation**
+
+  Xinyu Peng, Ziyang Zheng, Yaoming Wang, Han Li, <u>Nuowen Kan</u>, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong
+ 
+  In Forty-Second International Conference on Machine Learning, 2025.
+  [\[Paper\]](https://icml.cc/virtual/2025/poster/45111) 
+
 - **[CVPR'25] Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning**
 
   Shouhang Zhu, Chenglin Li, Yuankun Jiang, Li Wei, <u>Nuowen Kan</u>, Ziyang Zheng, Wenrui Dai, Junni Zou, Hongkai Xiong
  
   In the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025.
 
+  [\[Paper\]](https://cvpr.thecvf.com/virtual/2025/poster/35124)
+
 - **[ICLR'25] On Disentangled Training for Nonlinear Transform in Learned Image Compression**
 
   Han Li, Shaohui Li, Wenrui Dai, Maida Cao, <u>Nuowen Kan</u>, Chenglin Li, Junni Zou, Hongkai Xiong
 
   In the 13th International Conference on Learning Representations, 2025.
+
+  [\[Paper\]](https://openreview.net/forum?id=U67J0QNtzo) [\[Code\]](https://github.com/qingshi9974/auxt)
 
 - **[IEEE TCSVT] Learnable Non-uniform Quantization With Sampling-based Optimization for Variable-Rate Learned Image Compression**
 
@@ -21,7 +32,7 @@
 
   <u>Nuowen Kan</u>, Sa Yan, Junni Zou, Wenrui Dai, Xing Gao, Chenglin Li, Hongkai Xiong
 
-  Accepted by IEEE/ACM Transactions on Networking, 2025.
+  In IEEE/ACM Transactions on Networking, Early Acess, 2025.
 
 - **[IEEE TCSVT] Task-Adapted Learnable Embedded Quantization for Scalable Human-Machine Image Compression**
 
