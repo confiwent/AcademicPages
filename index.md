@@ -14,9 +14,10 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 
 ## Research Interest
 
-- AI for multimedia and network flow optimization
-- Deep reinforcement learning and Graph neural network
-- Task oriented image/video processing and communication
+- AI for multimedia communication and network optimization
+- LLM Infra (collective communication/compute-communication overlapping/inference serving)
+- Deep reinforcement learning and VLA
+<!-- - Task oriented image/video processing and communication -->
 
 ## News
 - [Aug. 2025] Our paper titled "MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
