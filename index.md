@@ -51,7 +51,9 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 ## Honors and Awards
 
 <!-- - **Science and Technology Advancement Award-First Prize, Shanghai**, 2022. -->
-- **上海市超级博士后计划**, 2024
+- **China National Postdoctoral Program for Innovative
+Talents (中国博士后创新人才支持计划)**, 2025
+- **Shanghai Super Postdoctoral Program (上海市超级博士后计划)**, 2024
 - **Outstanding Ph.D. Graduate of Shanghai**, 2024
 - **Huawei Scholarship**, 2022.
 - **SMICS MengNing Scholarship**, 2019.
@@ -61,7 +63,7 @@ __Previouly:__ I received the B.S. degree in Information Engineering from Nanjin
 ## Services
 *Reviewer* for 
 - Journals: **IEEE JSAC, IEEE TMM, IEEE TCSVT, IEEE TMC**
-- Conferences: **ACM Multimedia 2022, 2023, 2024, IEEE ICC 2023, 2024, IEEE WCNC 2023**.
+- Conferences: **NeuIPS2025, ICLR 2025，ACM Multimedia 2022, 2023, 2024, IEEE ICC 2023, 2024, IEEE WCNC 2023**.
 
 ## Contact
 
