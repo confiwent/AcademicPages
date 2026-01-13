@@ -55,6 +55,7 @@ My current research focuses include:
 Talents (中国博士后创新人才支持计划), 2025
 - Shanghai Super Postdoctoral Program (上海市超级博士后计划), 2024
 - Outstanding Ph.D. Graduate of Shanghai, 2024
+- ACM Multimedia Top Paper Award (first author), 2022
 - Huawei Scholarship, 2022.
 - SMICS MengNing Scholarship, 2019.
 - National Encourage Scholarship, 2016.
