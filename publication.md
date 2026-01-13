@@ -16,7 +16,7 @@ title: Publications
 
     Junyu Zhou, Yuyang Huang, Wenrui Dai, Junni Zou, Ziyang Zheng, <u>Nuowen Kan</u>, Chenglin Li, Hongkai Xiong
 
-    In the 33rd ACM International Conference on Multimedia, 2025.
+    In the 33rd ACM International Conference on Multimedia, 2025, <span style="color:#004098">Oral</span>
 
     [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3746027.3754855)
 
@@ -48,7 +48,7 @@ title: Publications
 
   Han Li, Shaohui Li, Wenrui Dai, Maida Cao, <u>Nuowen Kan</u>, Chenglin Li, Junni Zou, Hongkai Xiong
 
-  In the 13th International Conference on Learning Representations, 2025.
+  In the 13th International Conference on Learning Representations, 2025, <span style="color:#004098">Spotlight</span>
 
   [\[Paper\]](https://openreview.net/forum?id=U67J0QNtzo) [\[Code\]](https://github.com/qingshi9974/auxt)
 
@@ -60,7 +60,7 @@ title: Publications
   
   [\[Paper\]](https://ieeexplore.ieee.org/document/10908223)
 
-- **[IEEE ToN] GDPlan: Generative Network Planning via Graph Diffusion Model**
+- **[IEEE TON] GDPlan: Generative Network Planning via Graph Diffusion Model**
 
   <u>Nuowen Kan</u>, Sa Yan, Junni Zou, Wenrui Dai, Xing Gao, Chenglin Li, Hongkai Xiong
 
@@ -112,10 +112,8 @@ title: Publications
   
   <u>Nuowen Kan</u>, Yuankun Jiang, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
 
-  In the 30th ACM International Conference on Multimedia, 2022.
-
-  <!-- __<font color=#DB652E>Top Papers Award (Top 6/609)</font>__ -->
-  __<span style="color:#DB652E">Oral Presentation, Top Papers Award (Top 6/609)</span>__
+  In the 30th ACM International Conference on Multimedia, 2022, __<span style="color:#004098">Oral, Top Papers Award (Top 6/609)</span>__
+  <!-- __<font color=#004098>Top Papers Award (Top 6/609)</font>__ -->
 
   [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3503161.3548331) [\[Code\]](https://github.com/confiwent/merina) [\[Framework\]](pic/MM_22.png) 
 
@@ -125,9 +123,7 @@ title: Publications
   
   <u>Nuowen Kan</u>, Chenglin Li, Caiyi Yang, Wenrui Dai, Junni Zou, Hongkai Xiong
 
-  In the 31st ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, 2021.
-
-  <span style="color:#DB652E">Oral Presentation</span>
+  In the 31st ACM Workshop on Network and Operating Systems Support for Digital Audio and Video, 2021, <span style="color:#004098">Oral</span>
 
   [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3458306.3458872) [\[Code\]](https://github.com/confiwent/BayesMPC) [\[Framework\]](pic/nossdav'21.png)
 
@@ -157,9 +153,7 @@ title: Publications
 
     <u>Nuowen Kan</u>, Chengming Liu, Junni Zou, Chenglin Li, Hongkai Xiong
 
-    In the 2019 IEEE International Conference on Image Processing.
-
-    <span style="color:#DB652E">Oral Presentation</span>
+    In the 2019 IEEE International Conference on Image Processing, <span style="color:#004098">Oral</span> 
 
     [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8803007) [\[Framework\]](pic/icip_19.png) [\[Slice\]](https://drive.google.com/file/d/1y6tLxdk-TxEl9gnDd-EnFSwyXgHnoUKQ/view?usp=sharing)
 
