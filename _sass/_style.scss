@@ -36,8 +36,9 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #db652e;
+    color: $accent;
     display: inline-block;
+    font-weight: normal;
 }
 .navbar {
     padding: 50px 0 50px 0;

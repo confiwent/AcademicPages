@@ -1,3 +1,8 @@
+---
+layout: default
+title: Publications
+---
+
 # Publications
 - **[IEEE TCSVT] MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning**
 
