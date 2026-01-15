@@ -4,7 +4,20 @@ layout: default
 
 # Nuowen Kan (阚诺文)
 
-<img class="profile-picture" src="nwkan_p3.jpg" width = "311" height = "414">
+<img class="profile-picture" id="avatar-img" src="nwkan_p3.jpg" width = "311" height = "414">
+
+<script>
+(function() {
+    var images = ['nwkan_p3.jpg', 'nwkan-25.jpg'];
+    var currentIndex = 0;
+    var avatarImg = document.getElementById('avatar-img');
+    
+    setInterval(function() {
+        currentIndex = (currentIndex + 1) % images.length;
+        avatarImg.src = images[currentIndex];
+    }, 5000); // 每3秒切换一次图片
+})();
+</script>
 
 ## <i class="fa-solid fa-id-card"></i> About me
 Postdoctoral Researcher
