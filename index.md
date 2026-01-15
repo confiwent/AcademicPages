@@ -15,7 +15,7 @@ layout: default
     setInterval(function() {
         currentIndex = (currentIndex + 1) % images.length;
         avatarImg.src = images[currentIndex];
-    }, 5000); // 每3秒切换一次图片
+    }, 5000); // 每5秒切换一次图片
 })();
 </script>
 
@@ -24,7 +24,7 @@ Postdoctoral Researcher
 
 [Media, Information, and Network](http://min.sjtu.edu.cn/) group, Shanghai Jiao Tong University (SJTU). 
 
-I am a postdoctoral researcher in department of Electronic Engineering, SJTU. I recieved my Ph.D. degree in Computer Science from SJTU, in 2024, the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, and the M.S. degree in Electronics and Communications Engineering from SJTU.  
+I am a postdoctoral researcher in the department of Electronic Engineering, SJTU, and will join East China Normal University (ECNU) in March, 2026. I received my Ph.D. degree in Computer Science from SJTU, in 2024, the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, and the M.S. degree in Electronics and Communications Engineering from SJTU.  
 
 My current research focuses include:
 - AI for multimedia communication and network optimization
@@ -33,7 +33,7 @@ My current research focuses include:
 <!-- - Task oriented image/video processing and communication -->
 
 ## <i class="fa-solid fa-radio"></i> Recent News
-- _[Aug. 2025]_ Our paper titled "[MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning]((https://ieeexplore.ieee.org/document/11119689))" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
+- _[Aug. 2025]_ Our paper titled "[MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning](https://ieeexplore.ieee.org/document/11119689)" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
 
 - _[Aug. 2025]_ Our paper titled "[Point Cloud Attribute Compression with Geometry-Aware Lifting-Based Multiscale Networks](https://ieeexplore.ieee.org/document/11121912)" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
 
@@ -78,7 +78,7 @@ Talents (中国博士后创新人才支持计划), 2025
 ## <i class="fa-brands fa-teamspeak"></i> Services
 *Reviewer* for 
 - Journals: IEEE JSAC, IEEE TMM, IEEE TCSVT, IEEE TMC
-- Conferences: NeuIPS2025, ICLR 2025，ACM Multimedia 2022, 2023, 2024, IEEE ICC 2023, 2024, IEEE WCNC 2023.
+- Conferences: NeurIPS 2025, ICLR 2025，ACM Multimedia 2022, 2023, 2024, IEEE ICC 2023, 2024, IEEE WCNC 2023.
 
 ---
 
