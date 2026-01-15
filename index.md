@@ -15,7 +15,7 @@ layout: default
     setInterval(function() {
         currentIndex = (currentIndex + 1) % images.length;
         avatarImg.src = images[currentIndex];
-    }, 10000); // 每10秒切换一次图片
+    }, 20000); // 每20秒切换一次图片
 })();
 </script>
 
