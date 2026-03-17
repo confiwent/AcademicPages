@@ -20,11 +20,11 @@ layout: default
 </script>
 
 ## <i class="fa-solid fa-id-card"></i> About me
-Postdoctoral Researcher
+Zi Jiang Young Researcher, East China Normal University (ECNU)
 
-[Media, Information, and Network](http://min.sjtu.edu.cn/) group, Shanghai Jiao Tong University (SJTU). 
+<!-- [Media, Information, and Network](http://min.sjtu.edu.cn/) group, Shanghai Jiao Tong University (SJTU).  -->
 
-I am a postdoctoral researcher in the department of Electronic Engineering, SJTU, and will join East China Normal University (ECNU) in March, 2026. I received my Ph.D. degree in Computer Science from SJTU, in 2024, the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, and the M.S. degree in Electronics and Communications Engineering from SJTU.  
+I joined the School of Information and Electronic Engineering, ECNU in March, 2026. Before that, I received my Ph.D. degree in Computer Science from SJTU, in 2024, the B.S. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics, China, and the M.S. degree in Electronics and Communications Engineering from SJTU.  
 
 My current research focuses include:
 - AI for multimedia communication and network optimization
@@ -33,6 +33,10 @@ My current research focuses include:
 <!-- - Task oriented image/video processing and communication -->
 
 ## <i class="fa-solid fa-radio"></i> Recent News
+- _[Jan. 2026]_ Our paper titled "Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation" was accepted by IEEE Data Compression Conference (DCC 2026)!
+
+- _[Dec. 2025]_ Our paper titled "[Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11396796)" was accepted by International Conference on Visual Communications and Image Processing (VCIP), 2026!
+
 - _[Aug. 2025]_ Our paper titled "[MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning](https://ieeexplore.ieee.org/document/11119689)" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
 
 - _[Aug. 2025]_ Our paper titled "[Point Cloud Attribute Compression with Geometry-Aware Lifting-Based Multiscale Networks](https://ieeexplore.ieee.org/document/11121912)" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
@@ -76,6 +80,8 @@ Talents (中国博士后创新人才支持计划), 2025
 - FPGA Application System Design Invitational Competition-First Prize, Jiangsu, 2015.
 
 ## <i class="fa-brands fa-teamspeak"></i> Services
+*Aera Chair* for IEEE ICME 2026
+
 *Reviewer* for 
 - Journals: IEEE JSAC, IEEE TMM, IEEE TCSVT, IEEE TMC
 - Conferences: NeurIPS 2025, ICLR 2025，ACM Multimedia 2022, 2023, 2024, IEEE ICC 2023, 2024, IEEE WCNC 2023.
@@ -84,7 +90,7 @@ Talents (中国博士后创新人才支持计划), 2025
 
 ## <i class="fa-solid fa-address-book"></i> Contact
 
-* Email: kannw_1230 [at] sjtu [dot] edu [dot] cn
+* Email: nwkan [at] ee[dot] ecnu [dot] edu [dot] cn
 * [Google Scholar](https://scholar.google.com/citations?user=OKrLi6UAAAAJ&hl)
 * [Github](https://github.com/confiwent)
 <!-- * [Linkin](https://www.linkedin.com/in/%E8%AF%BA%E6%96%87-%E9%98%9A-763004119/) -->
