@@ -4,6 +4,14 @@ title: Publications
 ---
 
 # Publications
+- **[ACM Multimedia'26] Progressive Level-of-Detail for Sparse Voxel Rasterization with Layered Representation Learning**
+
+    Yaohan Jiang, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
+
+    In the 34th ACM International Conference on Multimedia, 2026.
+
+    <!-- [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3746027.3754855) -->
+
 - **[IEEE TCSVT] MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning**
 
   <u>Nuowen Kan</u>, Chenglin Li, Yuankun Jiang, Wenrui Dai, Junni Zou, Hongkai Xiong, Laura Toni

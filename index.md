@@ -33,6 +33,8 @@ My current research focuses include:
 <!-- - Task oriented image/video processing and communication -->
 
 ## <i class="fa-solid fa-radio"></i> Recent News
+- _[Aug. 2026]_ Our paper titled "Progressive Level-of-Detail for Sparse Voxel Rasterization with Layered Representation Learning" was accepted by ACM Multimedia, 2026!
+
 - _[Jan. 2026]_ Our paper titled "Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation" was accepted by IEEE Data Compression Conference (DCC 2026)!
 
 - _[Dec. 2025]_ Our paper titled "[Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11396796)" was accepted by International Conference on Visual Communications and Image Processing (VCIP), 2026!
