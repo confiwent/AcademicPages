@@ -8,7 +8,7 @@ layout: default
 
 <script>
 (function() {
-    var images = ['nwkan_p3.jpg', 'nwkan-25.jpg'];
+    var images = ['nwkan26-v2.jpg', 'nwkan_p3.jpg', 'nwkan-25.jpg',];
     var currentIndex = 0;
     var avatarImg = document.getElementById('avatar-img');
     
