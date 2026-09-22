@@ -33,9 +33,13 @@ My current research focuses include:
 <!-- - Task oriented image/video processing and communication -->
 
 ## <i class="fa-solid fa-radio"></i> Recent News
+- _[Sep. 2026]_ Our paper titled "Tackling Over-squashing in Graph Neural Networks via Mitigating Topological Bottleneck With Random Walks Based Probabilistic Curvature Metric" was accepted by IEEE Transactions on Signal Processing (TSP), 2026!
+
 - _[Aug. 2026]_ Our paper titled "Progressive Level-of-Detail for Sparse Voxel Rasterization with Layered Representation Learning" was accepted by ACM Multimedia, 2026!
 
-- _[Jan. 2026]_ Our paper titled "Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation" was accepted by IEEE Data Compression Conference (DCC 2026)!
+- _[Jan. 2026]_ Our paper titled "[Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11396796/)" was accepted by 2025 International Conference on Visual Communications and Image Processing (VCIP)!
+
+- _[Jan. 2026]_ Our paper titled "[Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation](https://ieeexplore.ieee.org/abstract/document/11510458/)" was accepted by IEEE Data Compression Conference (DCC 2026)!
 
 - _[Dec. 2025]_ Our paper titled "[Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11396796)" was accepted by International Conference on Visual Communications and Image Processing (VCIP), 2026!
 
@@ -49,9 +53,9 @@ My current research focuses include:
 
 <!-- - _[Apr. 2025]_ Our paper titled "A Generalizable and Expressive Meta-Diffusion Policy for RTC Bandwidth Prediction" was accepted by IEEE International Conference on Multimedia&Expo (ICME), 2025! -->
 
-- _[Mar. 2025]_ Our paper titled "[Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning](https://cvpr.thecvf.com/virtual/2025/poster/35124)" was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025!
+<!-- - _[Mar. 2025]_ Our paper titled "[Stabilizing and Accelerating Autofocus with Expert Trajectory Regularized Deep Reinforcement Learning](https://cvpr.thecvf.com/virtual/2025/poster/35124)" was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025!
 
-- _[Feb. 2025]_ Our paper titled "[On Disentangled Training for Nonlinear Transform in Learned Image Compression](https://openreview.net/forum?id=U67J0QNtzo)" was accepted by International Conference on Learning Representations (ICLR), 2025!
+- _[Feb. 2025]_ Our paper titled "[On Disentangled Training for Nonlinear Transform in Learned Image Compression](https://openreview.net/forum?id=U67J0QNtzo)" was accepted by International Conference on Learning Representations (ICLR), 2025! -->
 
 <!-- - [Jan. 2025] Our paper titled "GDPlan: Generative Network Planning via Graph Diffusion Model" was accepted by IEEE/ACM Transactions on Networking (ToN), 2025!
 

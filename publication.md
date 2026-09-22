@@ -4,6 +4,14 @@ title: Publications
 ---
 
 # Publications
+- **[IEEE TSP] Tackling Over-squashing in Graph Neural Networks via Mitigating Topological Bottleneck With Random Walks Based Probabilistic Curvature Metric**
+
+  Yiheng Jiang, Wenrui Dai, Junni Zou, Nuowen Kan, Ziyang Zheng, Chenglin Li, Hongkai Xiong,
+
+  In IEEE Transactions on Signal Processing (TSP), 2026. 
+  
+  <!-- [\[Paper\]](https://ieeexplore.ieee.org/document/11121912) -->
+
 - **[ACM Multimedia'26] Progressive Level-of-Detail for Sparse Voxel Rasterization with Layered Representation Learning**
 
     Yaohan Jiang, <u>Nuowen Kan</u>, Chenglin Li, Wenrui Dai, Junni Zou, Hongkai Xiong
@@ -11,6 +19,22 @@ title: Publications
     In the 34th ACM International Conference on Multimedia, 2026.
 
     <!-- [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3746027.3754855) -->
+
+- **[VCIP'25] Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach**
+
+    Yuhui Du, <u>Nuowen Kan</u>, Chenglin Li, Junni Zou, Ziyang Zheng, Shaohui Li, Wenrui Dai, Qingli Li, Hongkai Xiong
+
+    In 2025 International Conference on Visual Communications and Image Processing (VCIP), 2025.
+
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/11396796/)
+
+- **[DCC'25] Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation**
+
+    Hao Dong, <u>Nuowen Kan</u>, Wenrui Dai, Shaohui Li, Ziyang Zheng, Chenglin Li, Junni Zou, Hongkai Xiong
+
+    In 2026 Data Compression Conference (DCC), 2026.
+
+    [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/11510458/)
 
 - **[IEEE TCSVT] MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning**
 
