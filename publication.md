@@ -4,9 +4,15 @@ title: Publications
 ---
 
 # Publications
+- **[IEEE TON] Topology Optimization with Ricci Curvature-Based Metric for Communication Network Planning**
+
+  Xingyu Zhou, <u>Nuowen Kan</u>, Yiheng Jiang, Junni Zou, Wenrui Dai, Chenglin Li, Hongkai Xiong
+
+  In IEEE Transactions on Networking (TON), 2026. 
+
 - **[IEEE TSP] Tackling Over-squashing in Graph Neural Networks via Mitigating Topological Bottleneck With Random Walks Based Probabilistic Curvature Metric**
 
-  Yiheng Jiang, Wenrui Dai, Junni Zou, Nuowen Kan, Ziyang Zheng, Chenglin Li, Hongkai Xiong,
+  Yiheng Jiang, Wenrui Dai, Junni Zou, <u>Nuowen Kan</u>, Ziyang Zheng, Chenglin Li, Hongkai Xiong,
 
   In IEEE Transactions on Signal Processing (TSP), 2026. 
   

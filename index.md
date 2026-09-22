@@ -33,15 +33,17 @@ My current research focuses include:
 <!-- - Task oriented image/video processing and communication -->
 
 ## <i class="fa-solid fa-radio"></i> Recent News
+- _[Sep. 2026]_ Our paper titled "Topology Optimization with Ricci Curvature-Based Metric for Communication Network Planning" was accepted by IEEE Transactions on Networking (TON), 2026!
+
 - _[Sep. 2026]_ Our paper titled "Tackling Over-squashing in Graph Neural Networks via Mitigating Topological Bottleneck With Random Walks Based Probabilistic Curvature Metric" was accepted by IEEE Transactions on Signal Processing (TSP), 2026!
+
+- _[Sep. 2026]_ Our paper titled "NegDrive: Negative Reinforcement to Enhance Reasoning Safety of Vision-Language-Action Models for Autonomous Driving" was accepted by International Conference on Visual Communications and Image Processing (VCIP), 2026!
 
 - _[Aug. 2026]_ Our paper titled "Progressive Level-of-Detail for Sparse Voxel Rasterization with Layered Representation Learning" was accepted by ACM Multimedia, 2026!
 
-- _[Jan. 2026]_ Our paper titled "[Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11396796/)" was accepted by 2025 International Conference on Visual Communications and Image Processing (VCIP)!
-
 - _[Jan. 2026]_ Our paper titled "[Error-Resilient Learned Video Compression With Channel Importance-Aware Redundancy Allocation](https://ieeexplore.ieee.org/abstract/document/11510458/)" was accepted by IEEE Data Compression Conference (DCC 2026)!
 
-- _[Dec. 2025]_ Our paper titled "[Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11396796)" was accepted by International Conference on Visual Communications and Image Processing (VCIP), 2026!
+- _[Dec. 2025]_ Our paper titled "[Learning to Optimize Low-Latency Live Streaming from Expertise: An Offline Meta-Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11396796)" was accepted by International Conference on Visual Communications and Image Processing (VCIP), 2025!
 
 - _[Aug. 2025]_ Our paper titled "[MERINA+: Improving Generalization for Neural Video Adaptation via Information-Theoretic Meta-Reinforcement Learning](https://ieeexplore.ieee.org/document/11119689)" was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025!
 
