@@ -33,6 +33,9 @@ My current research focuses include:
 <!-- - Task oriented image/video processing and communication -->
 
 ## <i class="fa-solid fa-radio"></i> Recent News
+
+- _[Nov. 2026]_ Our paper titled "KVFocus: A Perturbation-Theoretic Token-Risk Score for Selective KV Cache Reuse in RAG" was accepted by the Fortieth Conference on Neural Information Processing Systems, 2026.
+
 - _[Sep. 2026]_ Our paper titled "Topology Optimization with Ricci Curvature-Based Metric for Communication Network Planning" was accepted by IEEE Transactions on Networking (TON), 2026!
 
 - _[Sep. 2026]_ Our paper titled "Tackling Over-squashing in Graph Neural Networks via Mitigating Topological Bottleneck With Random Walks Based Probabilistic Curvature Metric" was accepted by IEEE Transactions on Signal Processing (TSP), 2026!
